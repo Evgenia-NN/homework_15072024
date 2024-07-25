@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.headings {
+    text-align: center;
+    width: 300px;
+    margin: 1em auto;
+}
+
+.marked {
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+
+
+.html {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.3em;
+    color: rgb(155, 10, 10);
+    background: rgba(214, 214, 214, 0.801);
+    
+}
+
+li {
+    display: inline;
+    color: cadetblue;
+    background-color:rgba(214, 214, 214, 0.801);
+}
+
+ul {
+     padding-left: 0px;
+}
